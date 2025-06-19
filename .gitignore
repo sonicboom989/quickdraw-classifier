@@ -1,0 +1,8 @@
+__pycache__/
+.ipynb_checkpoints/
+*.npy
+models/
+.env
+.DS_Store
+data/*.npy
+
